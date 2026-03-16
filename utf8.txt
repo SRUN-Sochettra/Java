@@ -1,0 +1,7 @@
+Hello
+សួស្តី
+こんにちは
+This was written using FileOutputStream
+This was also interpreted using OutputStreamWriter
+This was read using FileInputStream
+This was also interpreted using InputStreamWriter

@@ -1,0 +1,2 @@
+Hello from Java!
+ This is written using Path, and also read using Path.
