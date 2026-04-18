@@ -146,10 +146,10 @@ class Library {
     private int size;
     private int nextId;
 
-    private final CellStyle headerStyle = new CellStyle(CellStyle.HorizontalAlign.center);
-    private final CellStyle cellStyle = new CellStyle(CellStyle.HorizontalAlign.center,
-            CellStyle.AbbreviationStyle.crop,
-            CellStyle.NullStyle.emptyString);
+    private final CellStyle headerStyle = new CellStyle(CellStyle.HorizontalAlign.CENTER);
+    private final CellStyle cellStyle = new CellStyle(CellStyle.HorizontalAlign.CENTER,
+            CellStyle.AbbreviationStyle.CROP,
+            CellStyle.NullStyle.EMPTY_STRING);
 
     public Library(String name, String address) {
         this.name = name;
